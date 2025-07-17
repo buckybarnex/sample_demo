@@ -19,6 +19,7 @@ function App() {
       <h1>Vite + React</h1>
       <h2>This is my debelop branch</h2>
       <h1>this is branch b1</h1>
+      <h2>this is branch b2</h2>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
